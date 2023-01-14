@@ -1,4 +1,6 @@
 import { Routes, Route } from 'react-router-dom';
+import Posts from './components/posts';
+import Post from './components/post';
 import './App.css';
 
 function App() {
